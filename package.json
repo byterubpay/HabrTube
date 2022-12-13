@@ -99,7 +99,7 @@
     "create-torrent": "^4.0.0",
     "deep-object-diff": "^1.1.0",
     "email-templates": "^7.0.4",
-    "express": "^4.12.4",
+    "express": "^4.17.3",
     "express-oauth-server": "^2.0.0",
     "express-rate-limit": "^5.0.0",
     "express-validator": "^6.4.0",
